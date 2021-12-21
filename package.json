@@ -1,0 +1,14 @@
+{
+  "name": "uas_kelompok_5",
+  "version": "1.0.0",
+  "description": "UAS Kelompok 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "Cypress"
+  },
+  "author": "Kelompok 5",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
